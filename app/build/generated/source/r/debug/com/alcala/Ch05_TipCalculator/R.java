@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.murach.tipcalculator;
+package com.alcala.Ch05_TipCalculator;
 
 public final class R {
     public static final class attr {

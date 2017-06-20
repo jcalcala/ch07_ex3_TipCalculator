@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.murach.tipcalculator"
+    package="com.alcala.Ch05_TipCalculator"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -9,7 +9,7 @@
         android:theme="@style/AppTheme" 
         android:allowBackup="true">
         <activity
-            android:name=".TipCalculatorActivity"
+            android:name="com.alcala.Ch05_TipCalculator.TipCalculatorActivity"
             android:label="@string/app_name" 
             android:windowSoftInputMode="stateUnchanged" >
             <intent-filter>

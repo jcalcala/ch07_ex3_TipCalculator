@@ -1,4 +1,4 @@
-package com.murach.tipcalculator;
+package com.alcala.Ch05_TipCalculator;
 
 import java.text.NumberFormat;
 
