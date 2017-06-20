@@ -23,17 +23,17 @@ public final class R {
         public static final int ic_launcher=0x7f020001;
     }
     public static final class id {
+        public static final int applyButton=0x7f080009;
         public static final int billAmountEditText=0x7f080001;
         public static final int billAmountLabel=0x7f080000;
         public static final int menu_settings=0x7f08000a;
-        public static final int percentDownButton=0x7f080004;
         public static final int percentLabel=0x7f080002;
+        public static final int percentSeekBar=0x7f080008;
         public static final int percentTextView=0x7f080003;
-        public static final int percentUpButton=0x7f080005;
-        public static final int tipLabel=0x7f080006;
-        public static final int tipTextView=0x7f080007;
-        public static final int totalLabel=0x7f080008;
-        public static final int totalTextView=0x7f080009;
+        public static final int tipLabel=0x7f080004;
+        public static final int tipTextView=0x7f080005;
+        public static final int totalLabel=0x7f080006;
+        public static final int totalTextView=0x7f080007;
     }
     public static final class layout {
         public static final int activity_tip_calculator=0x7f030000;
